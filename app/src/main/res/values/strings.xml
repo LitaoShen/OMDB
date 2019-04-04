@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OMDB</string>
+    <string name="all_fragment">All</string>
+    <string name="favorite_fragment">Favorite</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_clear">Clear</string>
+</resources>
